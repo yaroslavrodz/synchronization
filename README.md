@@ -10,6 +10,7 @@
 
 
 #### Database dump file
+##### This is a postgresql dump file and requests from requests from postman database collection works with it
 ##### Download this file. Open pgAdmin. Create a new database, right-click on it, click on 'Restore' and select the downloaded file.
 
     https://drive.google.com/drive/folders/1I3oaonF8rKZan107Zm-6WwWgKOJExkUG?usp=share_link
